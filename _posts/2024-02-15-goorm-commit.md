@@ -1,6 +1,6 @@
 ---
 title: 24년 2월 goorm COMMIT - 시야가 넓은 개발자는 무엇이 다를까 (라인 기술 임원 김영재) 
-date: 2024-02-12 09:20:00 +09:00
+date: 2024-02-15 09:20:00 +09:00
 categories: [Blogging,강연]
 tags: [goorm, commit, developer]
 pin: true
