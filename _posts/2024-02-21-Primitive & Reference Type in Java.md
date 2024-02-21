@@ -1,7 +1,7 @@
 ---
 title: 기본형(Primitive Type)과 참조형(Reference Type)의 차이
 date: 2024-02-21 20:00:00 +09:00
-categories: [Blogging,IT,Java]
+categories: [Blogging,IT]
 tags: [developer, Backend, IT, Java]
 ---
 
